@@ -149,15 +149,6 @@ Mechanical design, CFD and thermal management for an autonomous marine catamaran
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fdosaavedra&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdosaavedra&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 ```python
